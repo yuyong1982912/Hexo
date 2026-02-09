@@ -5,4 +5,8 @@ tags:
   Life
 ---
 
-{% asset_img life.png %}   Do this , what do you get ?
+ 
+
+| {% asset_img life.png %} | Do this , what do you get ? |
+| ------------------------ | --------------------------- |
+
