@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3deba89b0845770a",
+        "id": "c1dda77d0f784e55",
         "type": "tabs",
         "children": [
           {
-            "id": "792f0cee9ab4bda0",
+            "id": "25f8aa3eb392166f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "792f0cee9ab4bda0",
+  "active": "25f8aa3eb392166f",
   "lastOpenFiles": [
+    "source/_posts/自控力.md",
+    "source/_posts/自控力",
+    "Publish.bat",
     "db.json",
     "public/js/script.js",
     "public/js/jquery-3.6.4.min.js",
@@ -187,9 +190,6 @@
     "public/fancybox",
     "public/css/images/banner.jpg",
     "public/css/style.css",
-    "public/css/images",
-    "public/css",
-    "public/tags/Life/index.html",
     "public/2026/02/06/Life/life.png",
     "source/_posts/人生感悟.md",
     "source/_posts/Life.md",
