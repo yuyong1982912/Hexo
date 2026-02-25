@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1dda77d0f784e55",
+        "id": "460841c07222f32c",
         "type": "tabs",
         "children": [
           {
-            "id": "25f8aa3eb392166f",
+            "id": "3644c6d139890103",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,12 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "25f8aa3eb392166f",
+  "active": "3644c6d139890103",
   "lastOpenFiles": [
-    "source/_posts/自控力.md",
-    "source/_posts/自控力",
-    "Publish.bat",
     "db.json",
+    "public/tags/hexo-cloudFlare/index.html",
+    "public/tags/hexo-cloudFlare",
     "public/js/script.js",
     "public/js/jquery-3.6.4.min.js",
     "public/js",
@@ -190,7 +189,10 @@
     "public/fancybox",
     "public/css/images/banner.jpg",
     "public/css/style.css",
+    "public/css/images",
     "public/2026/02/06/Life/life.png",
+    "source/_posts/新年.md",
+    "source/_posts/自控力.md",
     "source/_posts/人生感悟.md",
     "source/_posts/Life.md",
     "source/_posts/hexo-and-cloudFlare-beginner-s-manual.md"
