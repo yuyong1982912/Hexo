@@ -18,15 +18,15 @@ So , Next is the method how to open the vmware remote console without open the b
 
 2. according to the figure below, open the help information
 
-   ![Help-300x159](D:\Hexo\blog\source\_posts\open-remote-virtual-machine-by-vmware-remote-console-without-open-esxi-web-console\Help-300x159.png)
+   {% asset_img Help-300x159.png %}
 
 3. in the opening dialog, find the Ui log path
 
-   ![FindLogPath-300x174](D:\Hexo\blog\source\_posts\open-remote-virtual-machine-by-vmware-remote-console-without-open-esxi-web-console\FindLogPath-300x174.png)
+   {% asset_img FindLogPath-300x174.png %}
 
 4. open the log form the path in step 3 and find the "vmrc://clone:xxxxxx" information
 
-   ![LogDetail-300x101](D:\Hexo\blog\source\_posts\open-remote-virtual-machine-by-vmware-remote-console-without-open-esxi-web-console\LogDetail-300x101.png)
+   {% asset_img LogDetail-300x101.png %}
 
 5. copy the information in step 4. and create an vbs script below.
 
@@ -39,4 +39,4 @@ remember ,instead your information of my script.
 
 6. Save the script to a file . Then open the file and input your esxi host's username and password to login.
 
-   ![connect-to-server-300x161](D:\Hexo\blog\source\_posts\open-remote-virtual-machine-by-vmware-remote-console-without-open-esxi-web-console\connect-to-server-300x161.png)
+   {% asset_img connect-to-server-300x161.png %}
